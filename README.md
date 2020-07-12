@@ -15,7 +15,9 @@
 
 
 Movie app:
+
 ● IT contains : 
+
 ○ Splash screen
 
 ○ Login screen
@@ -24,6 +26,7 @@ Movie app:
 
 
 Splash screen:
+
 ● Splash screen with image and background colour.
 
 Login screen:
